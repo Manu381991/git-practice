@@ -1,0 +1,27 @@
+machine learning
+1. supervised 
+2. unsupervised
+3. semi supervised
+4. reinforcement
+
+1. supervised
+a. regression
+	Linear regression
+	model evaluation metrices:
+		MSE (Mean Squared Error)
+		MAE (Mean Absolute Error)
+		RSE (Root Squared Error)
+		R2 (R_Squared)
+b. classification
+	Logisitics regression
+	KNN
+	Naive Bayes
+	Decision Tree
+	Random forest
+	svm
+	Model Evaluation Metrices:
+		F1_score
+		accuracy
+		precision
+		recall
+		confusion matrix
